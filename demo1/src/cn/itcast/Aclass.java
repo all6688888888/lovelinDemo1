@@ -7,6 +7,7 @@ public class Aclass {
         System.out.println("知道就好");
         System.out.println("333");
         System.out.println("666");
+        System.out.println("2323");
     }
 
 }
